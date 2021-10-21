@@ -8,3 +8,5 @@ https://hleecaster.com/ml-knn-concept/
 <br>편미분
 <br>
 https://airsbigdata.tistory.com/191 
+callback?
+https://deep-deep-deep.tistory.com/56
