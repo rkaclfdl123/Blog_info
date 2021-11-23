@@ -12,3 +12,5 @@ callback?
 https://deep-deep-deep.tistory.com/56
 https://ssungkang.tistory.com/entry/Django-requirementstxt-%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%A2%85%EC%86%8D%EC%84%B1-%EA%B4%80%EB%A6%AC
 https://gyoogle.dev/blog/
+https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/
+https://jh-bk.tistory.com/24
