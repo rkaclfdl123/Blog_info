@@ -14,3 +14,4 @@ https://ssungkang.tistory.com/entry/Django-requirementstxt-%EB%A5%BC-%ED%86%B5%E
 https://gyoogle.dev/blog/
 https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/
 https://jh-bk.tistory.com/24
+https://levelup.gitconnected.com/how-to-save-uploaded-files-in-fastapi-90786851f1d3
